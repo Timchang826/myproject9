@@ -5,14 +5,15 @@ class Student(var name:String,var eng:Int,var math:Int){
         println("Test")
     }
     fun pprint(){
-        println("$name\t$eng\t$math${getAverage()}")
+        println("$name\t$eng\t$math\t${getAverage()}")
     }
     fun print(){
-        println(name + "\t" + eng + "\t" + math)
+        println(name + "\t" + eng + "\t" + math + "\t" + getAverage2())
     }
     fun getAverage():Int{
-        return (eng+math)/2
+        return (eng + math)/2
     }
+    fun getAverage2() = (eng + math)/2
 }
 fun main(){
     val stu = Student("Jack",55,60)

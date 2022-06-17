@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b787d93-d9f1-485e-aa1d-4cff38bd5743" name="Changes" comment="Hello World with Kotlin">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tim/score/Student.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tim/score/Student.kt" afterDir="false" />
-    </list>
+    <list default="true" id="4b787d93-d9f1-485e-aa1d-4cff38bd5743" name="Changes" comment="Scoring with Kotlin&#10;average" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655449073696</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Scoring with Kotlin&#10;average">
+      <created>1655449563736</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1655449563736</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -157,6 +162,7 @@
     <MESSAGE value="Hello with Person" />
     <MESSAGE value="merged" />
     <MESSAGE value="Hello World with Kotlin" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hello World with Kotlin" />
+    <MESSAGE value="Scoring with Kotlin&#10;average" />
+    <option name="LAST_COMMIT_MESSAGE" value="Scoring with Kotlin&#10;average" />
   </component>
 </project>
